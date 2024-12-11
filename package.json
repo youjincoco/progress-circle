@@ -1,0 +1,19 @@
+{
+  "name": "progress-circle",
+  "version": "1.0.0",
+  "description": "이 프로젝트는 0%에서 100%까지 진행 상태를 표시하는 **원형 프로그래스바**를 구현하는 자바스크립트 라이브러리입니다. 이 라이브러리는 **SVG**를 이용하여 원형 프로그래스바를 그리며, 진행률에 따라 원형이 채워지는 애니메이션 효과를 제공합니다. 또한, 외부에서 진행률을 실시간으로 업데이트할 수 있는 API를 제공합니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

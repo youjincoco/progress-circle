@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env"] // 최신 JavaScript를 구형 브라우저에서 호환되도록 변환
+  }
+  
